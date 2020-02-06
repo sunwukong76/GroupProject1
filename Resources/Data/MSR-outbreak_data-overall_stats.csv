@@ -1,0 +1,9 @@
+﻿disease,date start,date end,#days,confirmed cases,avg conf. cases,total deaths,avg deaths,death:case,infection radius,SOURCE
+ebola,2014-03-03,2016-03-28,756,28652,37.8994709,11325,14.98015873,39.53%,,https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html
+zika,2017-08-10,2017-09-29,50,437,8.74,,0,0.00%,,
+sars,2003-03-12,2003-07-03,113,8098,71.66371681,774,6.849557522,9.56%,,https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5249a2.htm
+h1n1,2009-04-15,2010-08-10,482,60800000,126141.0788,12469,25.86929461,0.02%,,https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html
+corona,,,0,,#DIV/0!,,#DIV/0!,#DIV/0!,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,infection radius is how many people one person can infect,
