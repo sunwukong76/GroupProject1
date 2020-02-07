@@ -1,0 +1,9 @@
+Date,Event,Source,News_Type,Disease
+2015-05-07,Start,PAHO,N,Zika
+2017-09-30,End,NA,P,Zika
+2009-04-15,Start,CDC,N,H1N1
+2010-08-11,End,WHO,P,H1N1
+2003-03-12,Start,WHO,N,SARS
+2003-07-05,End,WHO,P,SARS
+2014-03-03,Start,NA,N,Ebola
+2016-03-29,End,WHO,P,Ebola
