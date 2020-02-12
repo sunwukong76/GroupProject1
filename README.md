@@ -96,8 +96,48 @@ Matt, Andres, Travis
 
 ---
 
+## Summary Statistics of Diseases:
 
+![Dis_stats ebola](Resources/Pics/DIS_STATS_EBOLA_JUPY.png) ![Dis_stats Sars](Resources/Pics/DIS_STATS_SARS_JUPY.png)   ![Dis_stats Zika](Resources/Pics/DIS_STATS_SARS_JUPY.png)
 
+---
 
+## Zika News Releases Overlayed on Market Spy and Segments:
 
+![zika-spy-news](Code/Travis_Smith/plots/Zika_SP500_overlay.png)    ![zika-sect-news](Code/Travis_Smith/plots/Zika_SP500_sectors_overlay.png)
 
+---
+
+## H1N1 News Releases Overlayed on Market Spy and Segments:
+
+![h1n1-spy-news](Code/Travis_Smith/plots/H1N1_SP500_overlay.png)    ![h1n1-sect-news](Code/Travis_Smith/plots/H1N1_SP500_sectors_overlay.png)
+
+---
+
+## SARS News Releases Overlayed on Market Spy and Segments:
+
+![SARS-spy-news](Code/Travis_Smith/plots/SARS_SP500_overlay.png)    ![SARS-sect-news](Code/Travis_Smith/plots/SARS_SP500_sectors_overlay.png)
+
+---
+
+## EBOLA News Releases Overlayed on Market Spy and Segments:
+
+![EBOLA-spy-news](Code/Travis_Smith/plots/SP500_Ebola_overlay.png)    ![EBOLA-sect-news](Code/Travis_Smith/plots/SP500_Sectors_Ebola_overlay.png)
+
+---
+
+## Zika News Releases Overlayed on Gold:
+
+![zika-GOLD-news](Code/Travis_Smith/plots/Zika_Gold_overlay.png)
+
+---
+
+## H1N1 News Releases Overlayed on Gold:
+
+![GOLDEBOLA-news](Code/Travis_Smith/plots/Gold_H1N1_overlay.png)
+
+---
+
+## EBOLA News Releases Overlayed on Gold:
+
+![EBOLA-GOLD-news](Code/Travis_Smith/plots/gold_ebola_overlay.png)
